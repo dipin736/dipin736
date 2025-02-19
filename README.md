@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Dipin Karunakaran</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Coding" width="500"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🔭 Currently working on <b>Web Development Projects</b></li>
+        <li>🌱 Learning <b>React.js, TypeScript, and AWS Cloud Services</b></li>
+        <li>👯 Looking to collaborate on <b>Full-Stack Web Applications</b></li>
+        <li>🤝 Open to <b>Open-source contributions</b></li>
+        <li>💬 Ask me about <b>React, Angular, Django, REST APIs, and Full-Stack Development</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/dipin736"><b>GitHub</b></a></li>
+        <li>📫 Reach me at <b>dipinkarunakaran6@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I think I am funny 😆</b></li>
+      </ul>
+    </td>
+    <td>
+  <img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Coding" width="400"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipin736&label=Profile%20views&color=0e75b6&style=flat" alt="dipin736" />
 </p>
 
----
-
-### 🚀 About Me
-- 🔭 Currently working on **Web Development Projects**  
-- 🌱 Learning **React.js, TypeScript, and AWS Cloud Services**  
-- 👯 Looking to collaborate on **Full-Stack Web Applications using React, Angular & Django**  
-- 🤝 Open to **Open-source contributions**  
-- 💬 Ask me about **React, Angular, Django, REST APIs, and Full-Stack Development**  
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/dipin736)**  
-- 📫 Reach me at **dipinkarunakaran6@gmail.com**  
-- ⚡ Fun fact: **I think I am funny 😆**  
 
 ---
-
 ### 📲 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/dipin-karunakaran" target="blank">
@@ -106,17 +111,25 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipin736&show_icons=true&locale=en&layout=compact" alt="dipin736" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipin736&show_icons=true&locale=en" alt="dipin736" />
-</p>
+### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipin736&" alt="dipin736"  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipin736&show_icons=true&locale=en&layout=compact" alt="dipin736" width="490"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dipin736&show_icons=true&locale=en" alt="dipin736" width="510"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipin736&" alt="dipin736" width="560"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
