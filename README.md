@@ -115,17 +115,20 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipin736&show_icons=true&locale=en&layout=compact" alt="dipin736" width="490"/>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipin736&show_icons=true&locale=en&layout=compact" alt="dipin736" width="450"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dipin736&show_icons=true&locale=en" alt="dipin736" width="510"/>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=dipin736&show_icons=true&locale=en" alt="dipin736" width="450"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipin736&" alt="dipin736" width="560"/>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipin736&" alt="dipin736" width="600"/>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -135,6 +138,6 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipin736" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dipin736" alt="GitHub Trophies" width="1600" />
   </a>
 </p>
