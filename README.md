@@ -13,7 +13,6 @@
         <li>💬 Ask me about <b>React, Angular, Django, REST APIs, and Full-Stack Development</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/dipin736"><b>GitHub</b></a></li>
         <li>📫 Reach me at <b>dipinkarunakaran6@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>I think I am funny 😆</b></li>
       </ul>
     </td>
     <td>
